@@ -1,5 +1,5 @@
 # Install ceph-rbd
-sudo git clone https://github.com/academyinfo/ceph-rbd/ \
+sudo git clone https://github.com/amineerroutbi-nplusone/ceph-rbd \
 cd ceph-rbd \
 sudo mkdir -p /opt/bin \
 sudo cp -r rbd /opt/bin \
