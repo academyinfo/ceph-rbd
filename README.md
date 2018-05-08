@@ -1,4 +1,7 @@
 # Install ceph-rbd
+
+#pour télécharger l'image de rbd et l'installer sur CoreOS suivez simplement les commandes suivantes
+
 sudo git clone https://github.com/amineerroutbi-nplusone/ceph-rbd \
 cd ceph-rbd \
 sudo mkdir -p /opt/bin \
